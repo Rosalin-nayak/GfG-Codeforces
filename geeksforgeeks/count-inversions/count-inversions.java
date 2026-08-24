@@ -1,0 +1,2 @@
+                count+=(a.length-i);
+
