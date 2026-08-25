@@ -1,2 +1,2 @@
-            return -1;
+            if(fast==null) return -1;
 
