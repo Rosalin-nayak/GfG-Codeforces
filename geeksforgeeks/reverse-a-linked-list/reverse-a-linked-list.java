@@ -1,2 +1,2 @@
-            Node next=curr.next;
+        return b;
 
