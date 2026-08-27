@@ -1,0 +1,2 @@
+        else k.next=j;
+
