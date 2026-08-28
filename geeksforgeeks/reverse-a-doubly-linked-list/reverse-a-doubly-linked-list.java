@@ -1,2 +1,2 @@
-            curr=fwd;
+            curr=curr.prev;
 
