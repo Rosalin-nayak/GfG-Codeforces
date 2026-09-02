@@ -1,0 +1,2 @@
+        preorder(root.right,ans);
+
