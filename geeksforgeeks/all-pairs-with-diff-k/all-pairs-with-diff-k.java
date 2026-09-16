@@ -1,0 +1,2 @@
+        return pairs/2;
+
